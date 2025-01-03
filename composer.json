@@ -1,0 +1,12 @@
+{
+    "name": "rhbekti/latihan-mysql",
+    "authors": [
+        {
+            "name": "rhbekti",
+            "email": "rhbekti.ac.id@gmail.com"
+        }
+    ],
+    "require": {
+        "robmorgan/phinx": "^0.16.6"
+    }
+}
